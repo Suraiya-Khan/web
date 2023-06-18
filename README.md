@@ -253,7 +253,7 @@ div.social {
 </style>
 </head>
 
-    <body onload="resetSelection()">
+    <body>
       <header>
         <br/>
         <div class="topnav">
